@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pienan12
-- 👀 I’m interested in Data analyst /data scientist /big data /ia/ 
+- 👀 I’m interested in Data analyst powerbi/data scientist /big data /ia/ 
 - 🌱 I’m currently learning dev frontend and data analyst and busness intelligente
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me coulibalypienanidriss@yahoo.ca
